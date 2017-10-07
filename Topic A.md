@@ -1,5 +1,5 @@
 # Topic A
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida arcu ac posuere pulvinar. Vestibulum pellentesque ligula in justo vulputate, sit amet eleifend diam egestas. Aenean finibus tincidunt magna ut porttitor. Pellentesque at eros non erat fringilla lobortis eget ut dolor. In elit ligula, posuere eu gravida id, tincidunt at ex. Vivamus ornare magna dapibus, suscipit nisl at, hendrerit neque. In vehicula dictum leo, vitae mattis enim fermentum vitae. Praesent quis lacinia erat. Cras elementum dui in tempus tempor. Suspendisse id libero justo. Morbi consectetur venenatis elit quis elementum. Donec sem ex, feugiat gravida nibh id, tincidunt scelerisque mauris. Nulla tristique iaculis nisi, nec facilisis erat.
-<div class="Note">This is a note</div>
+[[Note]] This is a note.
 To calculate X, use this formula: $$f(x) = x^2$$
-<MadCap:Condition ...> </div>
+
