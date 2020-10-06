@@ -2,7 +2,11 @@
 
 Stigmergy is a consensus social network mechanism of indirect coordination, through the environment, between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. In that way, subsequent actions tend to reinforce and build on each other, leading to the spontaneous emergence of coherent, apparently systematic activity.
 
-Stigmergy is a form of self-organization social network. It produces complex, seemingly intelligent structures, without need for any planning, control, or even direct communication between the agents. As such it supports efficient collaboration between extremely simple agents, who lack any memory, intelligence or even individual awareness of each other.
+Stigmergy is a form of self-organization social network. It produces complex, seemingly intelligent structures, without need for any planning, control, or even direct communication between the agents. As such it supports efficient collaboration between extremely simple agents, who lack any memory, intelligence or even individual awareness of each other. 
+as
+d 
+dd 
+asd asd
 
 ![Ant paths built from pheromone traces](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safari_ants.jpg/1280px-Safari_ants.jpg)
 
