@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data>
+        <title>Alfarabi Dialectic</title>
+    </data>
+    <line>
+        <sentence>
+            <set>
+                <manuscript sources="Moscow Guenzberg 395,Moscow RSL 1172">
+                    In an old
+                </manuscript>
+                <manuscript sources="Munich 110">
+                    In a creepy old
+                </manuscript>
+            </set>
+            <set>
+                <manuscript sources="Moscow RSL 1172, Munich 110">
+                    house in Paris
+                </manuscript>
+                <manuscript sources="Munich 110">
+                    castle
+                </manuscript>
+            </set>
+        </sentence>
+    </line>
+</root>
